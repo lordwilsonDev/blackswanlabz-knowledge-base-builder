@@ -1,0 +1,6 @@
+# BlackSwanLabz knowledge-base builder
+> A skill any AI model can follow: interview a person about the knowledge base they want, then build it as a private website.
+- [AGENTS.md](AGENTS.md): rules for AI agents
+- [Skill](knowledge-base-builder/SKILL.md): the steps
+- [Questions](knowledge-base-builder/references/questions.md): the interview
+- [Spec format](knowledge-base-builder/references/spec-format.md): what the interview produces

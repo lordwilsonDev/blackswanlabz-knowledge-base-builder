@@ -1,0 +1,15 @@
+{
+  "name": "Example Bakery",
+  "subtitle": "HANDBOOK",
+  "tagline": ["Fresh every day.", "Written down for everyone."],
+  "intro": "Example Bakery is a made-up shop used to test this skill.",
+  "audience": "Example staff",
+  "accent": "#1a5fb4",
+  "sections": [
+    {"slug": "about", "name": "About", "icon": "info", "description": "Who we are.", "owner": "Sam Example",
+     "pages": [{"slug": "what-we-do", "title": "What we do", "description": "The shop in a few lines.", "owner": "Sam Example", "order": 1, "body": "TODO: Sam to describe the shop. See [opening routine](/docs/work/opening-routine)."}]},
+    {"slug": "work", "name": "How we work", "icon": "book", "description": "Daily routines.", "owner": "Sam Example",
+     "pages": [{"slug": "opening-routine", "title": "Opening routine", "description": "Steps to open the shop.", "owner": "Sam Example", "order": 1, "body": "TODO: Sam to list the opening steps."}]}
+  ],
+  "people": [{"slug": "sam-example", "name": "Sam Example", "role": "Owner", "section": "about", "bio": "Example person for testing.", "responsibilities": ["Questions about the shop and its routines."]}]
+}
