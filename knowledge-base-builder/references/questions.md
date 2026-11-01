@@ -1,5 +1,7 @@
 # The interview
 
+**Question 0: what may I do?** Ask each separately: (a) create files in one new folder, (b) run commands (git, python3, node, npm; they download things from the internet), (c) start the site and look at it in a browser, (d) read documents you point me to. They can say yes, no, or ask. Whatever they allow, you build the process around it (see SKILL.md, Permissions).
+
 Ask one at a time. Wait for the answer. If they skip one, ask once more, then write UNKNOWN and go on.
 
 1. **Who is it for?** (a) your own team, (b) new hires, (c) customers or clients, (d) the public, (e) just me. Also: how many people will read it, and what do they do all day?
